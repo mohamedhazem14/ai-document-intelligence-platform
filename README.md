@@ -6,9 +6,9 @@
 
 | Field            | Value                                         |
 | ---------------- | --------------------------------------------- |
-| Full Name        | _your name_                                   |
+| Full Name        | Mohamed Hazem                                |
 | Project Name     | AI Document Intelligence Platform             |
-| GitHub Username  | _your username_                               |
+| GitHub Username  | mohamedhazem14                               |
 | Internship Batch | August–October 2026                           |
 | Training Program | Large Language Models (LLMs) Program          |
 | Organization     | [**Edrak for Ai**](https://edrak4ai.com/en)   |
